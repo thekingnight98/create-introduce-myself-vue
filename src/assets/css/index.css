@@ -38,3 +38,8 @@ a {
     /* Chrome, Safari, Opera */
     filter: blur(2px);
 }
+
+.text--error {
+    color: red;
+    font-size: 12px;
+}
